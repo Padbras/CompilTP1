@@ -1,0 +1,5 @@
+Bonjour, je suis un test d'essai.
+//Ceci est une ligne de commentaires. 
+Merci de l'ignorer
+Bisous
+//TG
